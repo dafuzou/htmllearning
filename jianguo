@@ -1,0 +1,470 @@
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+  <title>坚果云网盘下载|云盘下载|免费网盘云盘试用</title>
+  <meta name="description" content="坚果云下载,网盘下载,云盘下载,免费网盘云盘试用。支持主流系统和机型如Windows系统、macOS系统、Linux系统,上架AppStore和安卓平台,随时随地访问同步文件。" />
+  <meta name="keywords" content="网盘下载,云盘下载,免费网盘,免费云盘,坚果云下载" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="/static/css/downloads.min-1Blb1QzPPemdIF09GsYk5Q.css" rel="stylesheet" type="text/css">
+  <script>
+  	(function (win, export_obj) {
+  		win['TeaAnalyticsObject'] = export_obj;
+  		if (!win[export_obj]) {
+  			function _collect() {
+  				_collect.q.push(arguments);
+  			}
+  			_collect.q = _collect.q || [];
+  			win[export_obj] = _collect;
+  		}
+  		win[export_obj].l = +new Date();
+  	})(window, '_teaAnalyticsEvent');
+
+  	(function () {
+  		window.teaAnalyticsEvent = function () {
+  			try {
+  				// TEA 在 IE9 及以下有跨域问题
+  				window._teaAnalyticsEvent.apply(this, arguments);
+  			} catch (err) { }
+  		};
+  		teaAnalyticsEvent.ensure = function (cb) {
+  			setTimeout(cb, 300)
+  		}
+  		teaAnalyticsEvent('init', {
+  			app_id: 155158,// number类型的appId
+  			channel: 'cn',
+  			autotrack: false
+  		});
+  		teaAnalyticsEvent('config', {
+  			user_unique_id: '',
+  			disable_auto_pv: true
+  		});
+  		teaAnalyticsEvent('send');
+  	})()
+  </script>
+  <script type="text/javascript">
+    var Constants = {
+      LATEST_VERSION: '最新版本：',
+      SEE_DETAILS_ON_STORE: '详情见应用商店'
+    };
+  </script>
+</head>
+
+<body>
+    <div id="logobar" class="page-header">
+        <div class="header-inner clear">
+            <a class="logo" href="/"><img src="/static/images/logo.png"></a>
+            <div class="links">
+              <a href="/">返回主页</a>
+            </div>
+        </div>
+      </div>
+  <div class="app-pc dp-n">
+
+
+    <div class="container">
+      <div id="downloads" class="well span12">
+        <div class="row r1">
+          <div class="dl-entry span4 entry-windows10">
+            <div class="dl-icon"><div class="sprite download_icons-sprite-windows"></div></div>
+            <div class="dl-main">
+              <div class="dl-info">
+                <p class="title">Windows 10 & 11</p>
+                <div class="desc"><p>为Windows 10 & 11系统设计的全功能客户端，自动智能同步您的文件</p></div>
+                <p class="require">适用平台：Windows 10、Windows 11</p>
+              </div>
+              <div class="dl-link">
+                <a class="btn btn-default download-client-windows" href="/static/exe/installer/NutstoreWindowsWPFInstaller.exe">点击下载</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="dl-entry span4 entry-mac">
+            <div class="dl-icon"><div class="sprite download_icons-sprite-macos"></div></div>
+            <div class="dl-main">
+              <div class="dl-info">
+                <p class="title">macOS</p>
+                <div class="desc"><p>为macOS系统设计的全功能客户端，自动智能同步您的文件</p></div>
+                <p class="require">适用平台：macOS 10.11+</p>
+              </div>
+              <div class="dl-link">
+                <a class="btn btn-default download-client-mac" href="/static/exe/installer/NutstoreOSXInstaller.dmg">点击下载</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="dl-entry span4 entry-linux">
+            <div class="dl-icon"><div class="sprite download_icons-sprite-linux"></div></div>
+            <div class="dl-main">
+              <div class="dl-info">
+                <p class="title">Linux</p>
+                <div class="desc"><p>为Linux系统设计的全功能客户端，自动智能同步您的文件</p></div>
+                <p class="require">适用平台：Ubuntu, Fedora, Debian, 统信UOS, 麒麟等主流系统</b></p>
+              </div>
+              <div class="dl-link">
+                <a class="btn btn-default download-client-linux" href="/s/downloads/linux">点击下载</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="separator entry-separator"></div>
+
+        <div class="row r2">
+          <div class="dl-entry span4 entry-ios">
+            <div class="dl-icon"><div class="sprite download_icons-sprite-app-store"></div></div>
+            <div class="dl-main">
+              <div class="dl-info">
+                <p class="title">iPhone/iPad</p>
+                <div class="desc">
+                  <p>为iOS系统设计的移动客户端，随时随地访问您的文件</p>
+                  <p>AppStore 关键字: <br>坚果云, Nutstore</p>
+                </div>
+                <p class="require">适用平台：iOS 10.0+</p>
+              </div>
+              <div class="dl-link">
+                <a class="btn btn-default download-client-ios" href="http://itunes.apple.com/cn/app/id444442371?mt=8" target="_blank"><span>AppStore</span></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="dl-entry span4 entry-android">
+            <div class="dl-icon"><div class="sprite download_icons-sprite-android"></div></div>
+            <div class="dl-main">
+              <div class="dl-info">
+                <p class="title">Android</p>
+                <div class="desc">
+                  <p>为Android系统设计的移动客户端，随时随地访问您的文件</p>
+                  <p>各大应用市场 关键字:<br>坚果云, Nutstore</p>
+                </div>
+                <p class="require">适用平台：Android 4.2+</p>
+              </div>
+              <div class="dl-link">
+                <a class="btn btn-default download-client-android" style="letter-spacing:0px" href="http://a.app.qq.com/o/simple.jsp?pkgname=nutstore.android">点击下载</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="dl-entry span4 entry-windows">
+            <div class="dl-icon"><div class="sprite download_icons-sprite-win7"></div></div>
+            <div class="dl-main">
+              <div class="dl-info">
+                <p class="title">Windows 7 & XP</p>
+                <div class="desc">
+                  <p>为Windows 7、Windows XP系统设计的全功能客户端，自动智能同步您的文件</p>
+                </div>
+                <p class="require" style="position: relative;top: -20px;">
+                  适用平台：Windows 7、Windows XP
+                </p>
+              </div>
+              <div class="dl-link">
+                <a class="btn btn-default download-client-windows-old" href="/static/exe/installer/NutstoreWindowsInstaller.exe">点击下载</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="app-mobile dp-n">
+      <div class="app-mobile-wrapper">
+        <ul class="app-download-list">
+          <li class="clear">
+              <div class="mobile-icon"><div class="sprite download_icons-sprite-windows"></div></div>
+              <div class="mobile-content">
+                <div class="name-download clear">
+                  <span class="name">Windows 10 & 11</span>
+                  <a href="/static/exe/installer/NutstoreWindowsWPFInstaller.exe" class="download download-client-windows">下载</a>
+                </div>
+                <p class="introduce">为Windows 10 & 11系统设计的全功能客户端，自动智能同步您的文件</p>
+                <p class="fit">适用平台：Windows 10、Windows 11</p>
+              </div>
+          </li>
+          <li class="clear">
+              <div class="mobile-icon"><div class="sprite download_icons-sprite-macos"></div></div>
+              <div class="mobile-content">
+                <div class="name-download clear">
+                  <span class="name">macOS</span>
+                  <a href="/static/exe/installer/NutstoreOSXInstaller.dmg" class="download download-client-mac">下载</a>
+                </div>
+                <p class="introduce">为macOS系统设计的全功能客户端，自动智能同步您的文件</p>
+                <p class="fit">适用平台：macOS 10.11+</p>
+              </div>
+          </li>
+          <li class="clear">
+              <div class="mobile-icon"><div class="sprite download_icons-sprite-linux"></div></div>
+              <div class="mobile-content">
+                <div class="name-download clear">
+                  <span class="name">Linux</span>
+                  <a href="/s/downloads/linux" class="download download-client-linux">下载</a>
+                </div>
+
+                <p class="introduce">为Linux系统设计的全功能客户端，自动智能同步您的文件</p>
+                <p class="fit">适用平台：Ubuntu, Fedora, Debian等主流Linux系统</p>
+              </div>
+          </li>
+          <li class="clear">
+              <div class="mobile-icon"><div class="sprite download_icons-sprite-app-store"></div></div>
+              <div class="mobile-content">
+                <div class="name-download clear">
+                  <span class="name">iPhone/iPad</span>
+                  <a href="http://itunes.apple.com/cn/app/id444442371?mt=8" class="download download-client-ios">下载</a>
+                </div>
+                <p class="introduce">为iOS系统设计的移动客户端，随时随地访问您的文件</p>
+                <p class="fit"> AppStore 关键字: 坚果云, Nutstore<br/>适用平台：iOS 10.0+</p>
+              </div>
+          </li>
+          <li class="clear">
+              <div class="mobile-icon"><div class="sprite download_icons-sprite-android"></div></div>
+              <div class="mobile-content">
+                <div class="name-download clear">
+                  <span class="name">Android</span>
+                  <a href="http://a.app.qq.com/o/simple.jsp?pkgname=nutstore.android" class="download download-client-android">下载</a>
+                </div>
+                <p class="introduce">为Android系统设计的移动客户端，随时随地访问您的文件</p>
+                <p class="fit">各大应用商店 关键字: 坚果云, Nutstore<br/>适用平台：Android 4.2+</p>
+              </div>
+          </li>
+          <li class="clear">
+              <div class="mobile-icon"><div class="sprite download_icons-sprite-win7"></div></div>
+              <div class="mobile-content">
+               <div class="name-download clear">
+                  <span class="name">Windows 7 & XP</span>
+                  <a href="/static/exe/installer/NutstoreWindowsInstaller.exe" class="download download-client-windows">下载</a>
+                </div>
+                <p class="introduce">为Windows 7、Windows XP系统设计的全功能客户端，自动智能同步您的文件</p>
+                <p class="fit">适用平台：Windows 7、Windows XP</p>
+              </div>
+          </li>
+        </ul>
+      </div>
+  </div>
+  <! 对外展示页面(无需登陆可以看到) !>
+  <div class="footer3" id="footer">
+      <div class="footer-content">
+          <div class="logo">
+              <div class="logo-nutstore">
+                  <img border="0" src="/static/images/large@2x.png" alt="Nutstore" class="footerLogo">
+              </div>
+              <div class="copyright">&copy; 2022 上海亦存网络科技有限公司</div>
+              <div class="copyright">&copy; 2022 上海亦净网络科技有限公司</div>
+              <br />
+              <div class="page-locale-para">
+                  <a class="locale-item" href="" onClick="setPageLocaleCookie('zh_CN');return false;">中文</a>
+                  <a class="locale-item" href="" onClick="setPageLocaleCookie('en');return false;">English</a>
+                  <a class="locale-item" href="" onClick="setPageLocaleCookie();return false;">自动</a>
+              </div>
+          </div>
+          <div class="links">
+              <div class="link-list">
+                  <ul>
+                      <li class="header">坚果云</li>
+                      <li class="link"><a href="/s/pricing" target="_blank">个人版</a></li>
+                      <li class="link"><a href="/s/team" target="_blank">团队版</a></li>
+                      <li class="link"><a href="/s/enterprise" target="_blank">企业版</a></li>
+                      <li class="link"><a href="/s/downloads" target="_blank">下载客户端</a></li>
+                      <li class="link"><a href="http://help.jianguoyun.com/?page_id=843" target="_blank">功能介绍</a></li>
+                      <li class="link"><a href="http://help.jianguoyun.com/?page_id=3961" target="_blank">隐私政策</a></li>
+                  </ul>
+              </div>
+
+              <div class="link-list">
+                  <ul>
+                      <li class="header">资源与社区</li>
+                      <li class="link"><a href="/d/applyTeamFreeTrial" target="_blank">免费试用</a></li>
+                      <li class="link"><a href="http://www.jianguoyun.com/s/content/" target="_blank">应用荟萃</a></li>
+                      <li class="link"><a href="/s/pricing" target="_blank">服务与价格</a></li>
+                      <li class="link"><a href="http://help.jianguoyun.com/" target="_blank">帮助中心</a></li>
+                      <li class="link"><a href="/s/tutorial" target="_blank">视频教程</a></li>
+                      <li class="link"><a href="http://blog.jianguoyun.com/" target="_blank">坚果云博客</a></li>
+                  </ul>
+              </div>
+
+              <div class="link-list">
+                  <ul>
+                      <li class="header" rel="nofollow">合作与生态</li>
+                      <li class="link"><a href="/static/others/partner/partner_list.html" target="_blank">生态圈</a></li>
+                      <li class="link"><a href="/s/enterprise/partners" target="_blank">渠道合作</a></li>
+                      <li class="link reports" id="reports"><a href="javascript:void(0)" rel="nofollow">媒体报道</a>
+                          <div class="reports-links" id="reports_links">
+                              <div class="links-row">
+                                  <a href="https://36kr.com/p/5126604.html" target="_blank" rel="nofollow" title="36氪专访 | 坚果云韩竹：五年内，中国云存储市场一定会出现一家上市公司"><span>36kr</span></a>
+                                  <a href="https://tech.huanqiu.com/news/2018-03/11698936.html" target="_blank" rel="nofollow" title="寻找中国的Dropbox：坚果云"><span>环球网</span></a>
+                                  <a href="https://www.ifanr.com/app/991892" target="_blank" rel="nofollow" title="又快又稳，这就是你在找的靠谱网盘 | 有用功"><span>爱范儿</span></a>
+                                  <a href="https://sspai.com/post/40457" target="_blank" rel="nofollow" title="为什么我每天都会使用坚果云"><span>少数派</span></a>
+                                  <a href="https://www.dgtle.com/article-838349-1.html" target="_blank" rel="nofollow" title="坚果云，「无感」的云端漫步才是正事儿"><span>数字尾巴</span></a>
+                                  <a href="https://www.sohu.com/a/230258962_602994" target="_blank" rel="nofollow" title="网盘界不好混，那坚果云是怎么走到今天的？"><span>搜狐科技</span></a>
+                                  <a href="https://tech.qq.com/a/20180626/035228.htm" target="_blank" rel="nofollow" title="一线丨对话坚果云CEO韩竹：希望一两年内登陆创业板"><span>腾讯科技</span></a>
+                                  <a href="https://tech.chinadaily.com.cn/2018-08/06/content_36716430.htm" target="_blank" rel="nofollow" title="坚果云获豌豆荚设计奖：非常实用的网盘类生产力工具"><span>中国日报</span></a>
+                                  <a href="http://money.163.com/16/0118/10/BDJTJS6N00253B0H.html" target="_blank" rel="nofollow" title=""><span></span></a>
+                                  <a href="http://china.huanqiu.com/hot/2016-06/8997718.html" target="_blank" rel="nofollow" title=""><span></span></a>
+                                  <a href="http://www.admin5.com/article/20160909/685462.shtml" target="_blank" rel="nofollow" title=""><span></span></a>
+                              </div>
+                          </div>
+                      </li>
+                      <li class="link"> <a href="http://www.jianguoyun.com/s/content/?page_id=1575">友情链接</a></li>
+                      <li class="link hot-links" id="hot_links"><a href="javascript:void(0)" rel="nofollow">热门标签</a>
+                          <div class="SEO-links" id="SEO_links">
+                              <div class="keywords">
+                                  <div class="links-title">关键字</div>
+                                  <div class="links-row">
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1649" title="公有云和私有云的区别" target="_blank"><span>公有云</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1649" title="公有云和私有云的区别" target="_blank"><span>私有云</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1649" title="公有云和私有云的区别" target="_blank"><span>混合云</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1302" title="如何选择企业网盘？" target="_blank"><span>企业网盘</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1576" title="个人网盘和企业网盘的区别" target="_blank"><span>企业云盘</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1601" title="免费网盘哪个更好用？" target="_blank"><span>免费网盘</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1654" title="文件备份用什么好？" target="_blank"><span>文件备份</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1453" title="你需要网盘还是同步盘？" target="_blank"><span>文件同步</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1605" title="企业内部文件资料共享用什么？企业网盘最便利" target="_blank"><span>文件共享</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1612" title="如何在手机上实现移动办公？" target="_blank"><span>移动办公</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1635" title="Box网盘类似的企业网盘推荐" target="_blank"><span>Box网盘</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1652" title="网盘可以替代硬盘U盘吗？哪个网盘好？" target="_blank"><span>取代硬盘</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1599" title="企业网盘可以替代FTP吗？FTP的替代方案" target="_blank"><span>取代FTP</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1652" title="网盘可以替代硬盘U盘吗？哪个网盘好？" target="_blank"><span>取代U盘</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1592" title="Dropbox好用在哪儿？国内是否有相似云盘呢？" target="_blank"><span>Dropbox</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1585" title="大文件传输用什么好？推荐坚果云企业网盘" target="_blank"><span>大文件传输</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1302" title="如何选择企业网盘？" target="_blank"><span>云存储系统</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1630" title="在线协作办公软件用什么好？" target="_blank"><span>云办公平台</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1630" title="在线协作办公软件用什么好？" target="_blank"><span>企业云平台</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1608" title="企业文件资料管理平台推荐" target="_blank"><span>企业知识库</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1632" title="最适合企业移动办公的软件是？" target="_blank"><span>企业移动办公</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1617" title="网盘真的安全吗？" target="_blank"><span>安全文件同步</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1623" title="细数众多企业网盘，哪个更合用些？" target="_blank"><span>专业企业网盘</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1608" title="企业文件资料管理平台推荐" target="_blank"><span>企业文件管理</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1610" title="企业文件存储平台推荐" target="_blank"><span>企业文件存储</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1625" title="销售技巧如何提高？使用坚果云抓住商机" target="_blank"><span>客户资料共享</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1625" title="销售技巧如何提高？使用坚果云抓住商机" target="_blank"><span>销售产品展示</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1630" title="在线协作办公软件用什么好？" target="_blank"><span>团队协同办公</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1617" title="网盘真的安全吗？" target="_blank"><span>数据传输安全</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1628" title="异地文件传输用什么好？" target="_blank"><span>网络文件传输</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1643" title="网盘可以替代硬盘吗？哪个网盘好？" target="_blank"><span>云盘网络硬盘</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1617" title="网盘真的安全吗？" target="_blank"><span>文档安全管理</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1628" title="异地文件传输用什么好？" target="_blank"><span>在线传输文件</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1628" title="异地文件传输用什么好？" target="_blank"><span>异地文件传输</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1641" title="文件离线收藏、编辑如何实现？" target="_blank"><span>文件离线收藏</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1620" title="文件管理工具推荐" target="_blank"><span>专业文件管理</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1605" title="企业内部文件资料共享用什么？企业网盘最便利" target="_blank"><span>在线文件共享</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1605" title="企业内部文件资料共享用什么？企业网盘最便利" target="_blank"><span>团队项目共享</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1578" title="哪些网盘有增量同步功能？" target="_blank"><span>智能增量同步</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1643" title="文件历史版本对比这么用才高效" target="_blank"><span>历史版本对比</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1656" title="文件历史版本如何找回" target="_blank"><span>文件历史版本</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1603" title="哪个网盘上传速度快？坚果云企业网盘" target="_blank"><span>文件快速上传</span></a>
+                                      <a href="http://www.jianguoyun.com/s/blog/?p=1582" title="跨国传输用什么好？推荐坚果云企业网盘" target="_blank"><span>跨地域协同办公</span></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </li>
+                  </ul>
+              </div>
+
+              <div class="link-list">
+                  <ul>
+                      <li class="header">管理与支持</li>
+                      <li class="link"><a href="https://cschat-ccs.aliyun.com/index.htm?tntInstId=_14Lmqci&scene=SCE00003192" target="_blank">在线咨询</a></li>
+                      <li class="link"><a href="/s/contactus" target="_blank">联系我们</a></li>
+                      <li class="link"><a href="/static/html/joinus/index.html" target="_blank">人才招聘</a></li>
+                  </ul>
+              </div>
+
+          </div>
+
+          <div class="QRcode">
+              <p>关注微信公众号</p>
+              <div class="img">
+                  <img src="/static/images/wechat_barcode.png">
+              </div>
+          </div>
+      </div>
+      <div class="cert">
+          <p>
+              <span>开发者名称：上海亦存网络科技有限公司</span>
+              <span>版本：4.23.1</span>
+              <span><a rel="nofollow" target="_blank" href="http://help.jianguoyun.com/?page_id=3961">隐私协议</a></span>
+              <span><a rel="nofollow" target="_blank" href="https://help.jianguoyun.com/?p=5972">用户权限</a></span>
+          </p>
+          <p>
+              <span class="iso"><a rel="nofollow" target="_blank" href="/static/images/ISO.jpg">ISO27001认证</a></span>
+              <span><a rel="nofollow" target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502003377">沪公网安备 31011502003377号</a></span>
+              <span><a rel="nofollow" target="_blank" href="https://beian.miit.gov.cn">沪ICP备11041324号-2</a></span>
+              <span>增值电信业务经营许可证：B1-20193672</span>
+              <span><a rel="nofollow" target="_blank" href="/static/images/IST.jpg">等保三级</a></span>
+          </p>
+          <p>
+              <span>违法和不良信息举报电话：021-50782360</span>
+              <span><a rel="nofollow" target="_blank" href="https://www.12377.cn">网上有害信息举报专区</a></span>
+              <span><a rel="nofollow" target="_blank" href="http://www.shjbzx.cn/" class="shjbzx"></a></span>
+          </p>
+      </div>
+
+  </div>
+  <script type="text/javascript">
+  function setPageLocaleCookie(value) {
+      var toDelete = !value;
+      var d = new Date();
+      if (toDelete) {
+          d = new Date("1970-01-01");
+      } else {
+          d.setTime(d.getTime() + 365 * 24 * 60 * 60 * 1000);
+      }
+
+      var expires = "expires=" + d.toGMTString();
+
+      value = toDelete ? '' : value;
+      document.cookie = 'page_locale=' + value + "; " + expires + "; path=/";
+
+      window.location.reload(true);
+  }
+  </script>
+  <script type="text/javascript">
+      document.getElementById('hot_links').onclick = function (e) {
+          var e = e || event;
+          document.getElementById('SEO_links').style.display = "block";
+          if (!!e.stopPropagation) {
+              e.stopPropagation();
+          }else{
+              e.cancelBubble=true;
+          }
+      };
+      document.getElementById('reports').onclick = function (e) {
+          var e = e || event;
+          document.getElementById('reports_links').style.display = "block";
+          if (!!e.stopPropagation) {
+              e.stopPropagation();
+          }else{
+              e.cancelBubble=true;
+          }
+      };
+      document.body.onclick = function () {
+          document.getElementById('SEO_links').style.display = "none";
+          document.getElementById('reports_links').style.display = "none";
+      };
+  </script>
+  <script src="/static/js/jquery-1.9.1.min-ZDwfzXYzITX0I2I7xhtRDw.js" type="text/javascript"></script>
+  <script src="/static/js/lib2.min-LtoBPDob33CleJwDzLVDog.js" type="text/javascript"></script>
+  <script src="/static/js/download_page.min-i2Yb2PQp3ONQ9GSlBPsReQ.js" type="text/javascript"></script>
+
+
+  <!--[if gt IE 9]><!-->
+  <script>
+  	(function () {
+  		window.addEventListener ? window.addEventListener("load", loadScripts, false) :
+  			window.attachEvent ? window.attachEvent("onload", loadScripts) :
+  				null;
+
+  		function loadScripts() {
+  			load('https://lf3-data.volccdn.com/obj/data-static/log-sdk/collect/collect-autotrack-rangers.js');
+
+  		}
+  		function load(src) {
+  			var s = document.createElement('script');
+  			s.src = src;
+  			document.body.appendChild(s)
+  		}
+  	})()
+  </script><!--<![endif]-->
+</body>
+</html>
